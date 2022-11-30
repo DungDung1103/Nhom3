@@ -44,6 +44,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[d:/BTLPTPM/BTLNhom3/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Login/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -62,6 +102,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Create.cshtml]

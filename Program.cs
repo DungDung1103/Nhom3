@@ -3,6 +3,14 @@ using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddSession(options =>
+{
+     options.Cookie.Name = ".AdventureWorks.Session";
+    options.IdleTimeout = TimeSpan.FromSeconds(10);
+    options.Cookie.IsEssential = true;
+});
 
 builder.Services.AddDbContext<MvcMovieContext>(options =>
     options.UseSqlite(builder.Configuration.GetConnectionString("MvcMovieContext") ?? throw new InvalidOperationException("Connection string 'MvcMovieContext' not found.")));
@@ -13,6 +21,14 @@ builder.Services.AddControllersWithViews();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
+// void ConfigureServices(IServiceCollection service)
+// {
+//     service.AddDistributedMemoryCache();
+//     service.AddSession(options => {
+//         options.Cookie.Name = "BTLNhom3";
+//         options.IdleTimeout = new TimeSpan(0,60,0);
+//     });
+// }
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -26,6 +42,16 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseSession();
+// app.UseEndpoints(Endpoints =>
+// {
+//     Endpoints.MapGet("/", async context =>
+//     {
+        
+//         await context.Response.WriteAsync("Hello World!");
+//     });
+// });
 
 app.MapControllerRoute(
     name: "default",

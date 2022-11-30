@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj": {}
+    "D:\\BTLNhom3\\BTLNhom3.csproj": {}
   },
   "projects": {
-    "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj": {
+    "D:\\BTLNhom3\\BTLNhom3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
+        "projectUniqueName": "D:\\BTLNhom3\\BTLNhom3.csproj",
         "projectName": "BTLNhom3",
-        "projectPath": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\BTLPTPM\\BTLNhom3\\obj\\",
+        "projectPath": "D:\\BTLNhom3\\BTLNhom3.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BTLNhom3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspnetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -49,6 +53,10 @@
               "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
               "version": "[7.0.0, )"
             },
