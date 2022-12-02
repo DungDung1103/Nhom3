@@ -9,97 +9,157 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BTLNhom3
 build_property.RootNamespace = BTLNhom3
-build_property.ProjectDir = d:\BTLPTPM\BTLNhom3\
+build_property.ProjectDir = D:\BTLPTPM\BTLNhom3\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\BTLPTPM\BTLNhom3
+build_property.MSBuildProjectDirectory = D:\BTLPTPM\BTLNhom3
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Admin/Create.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Admin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Admin/Delete.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Admin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Admin/Details.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Admin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Admin/Edit.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Admin/Index.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Home/Index.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Home/Privacy.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Create.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Login/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Login/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Login/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Login/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlydonhang/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Delete.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Details.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Edit.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Index.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlykhachhang/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Create.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlyncc/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Delete.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Details.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Edit.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Index.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Quanlysanpham/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Shared/Error.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/_ViewImports.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/_ViewStart.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/BTLPTPM/BTLNhom3/Views/Shared/_Layout.cshtml]
+[D:/BTLPTPM/BTLNhom3/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mg2dezen3h

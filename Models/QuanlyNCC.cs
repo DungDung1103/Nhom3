@@ -1,18 +1,19 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BTLNhom3.Models;
 
-public class QuanlyNCC
+public class Quanlyncc
 {
     [Key]
-     [Required(ErrorMessage = "Mã  sản phẩm không được để trống !!!")]
-    public string? MasanNCC { get; set; }
-    public string? TenNCC { get; set; }
+     [Required(ErrorMessage = "Mã NCC không được để trống !!!")]
+    public string? Mancc { get; set; }
+    [Required(ErrorMessage = "Tên NCC không được để trống !!!")]
+    public string? Tenncc { get; set; }
     
-    public string? Masanpham { get; set; }
-
      public int sodienthoai { get; set; }
     public string? diachi { get; set; }
     
     public string? email { get; set; }
+     
 }

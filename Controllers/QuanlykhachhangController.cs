@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,13 +8,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
+using BTLNhom3.Models.Process;
 
 namespace BTLNhom3.Controllers
 {
     public class QuanlykhachhangController : Controller
     {
         private readonly MvcMovieContext _context;
-
+        private StringProcess strPro = new StringProcess();
         public QuanlykhachhangController(MvcMovieContext context)
         {
             _context = context;
@@ -46,9 +48,19 @@ namespace BTLNhom3.Controllers
         }
 
         // GET: Quanlykhachhang/Create
-        public IActionResult Create()
+       public IActionResult Create()
         {
-            return View();
+            var newMakhachhang= "KH001";
+            var countQlmh = _context.Quanlykhachhang.Count();
+            if(countQlmh>0)
+            {
+                var Mamonhoc = _context.Quanlykhachhang.OrderByDescending(m =>m.Makhachhang).First().Makhachhang;
+                // sinh ma tu dong
+                newMakhachhang = strPro.AutoGenerateCode(Mamonhoc);
+            }
+            ViewBag.newID = newMakhachhang;
+            return View(); 
+            // ViewData["Mamonhoc"]=new SelectList (_context.Mamonhoc, "FacultyID", "FacultyName");
         }
 
         // POST: Quanlykhachhang/Create

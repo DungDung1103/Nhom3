@@ -19,5 +19,10 @@ namespace MvcMovie.Data
         public DbSet<BTLNhom3.Models.Quanlysanpham> Quanlysanpham { get; set; } = default!;
 
         public DbSet<BTLNhom3.Models.Quanlykhachhang> Quanlykhachhang { get; set; } = default!;
+
+        public DbSet<BTLNhom3.Models.Quanlyncc> Quanlyncc { get; set; } = default!;
+
+        public DbSet<BTLNhom3.Models.Quanlydonhang> Quanlydonhang { get; set; } = default!;
+        public DbSet<BTLNhom3.Models.Login> Login { get; set; } = default!;
     }
 }
