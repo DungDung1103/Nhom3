@@ -48,15 +48,15 @@ namespace BTLNhom3.Controllers
         }
 
         // GET: Quanlykhachhang/Create
-       public IActionResult Create()
+      public IActionResult Create()
         {
             var newMakhachhang= "KH001";
-            var countQlmh = _context.Quanlykhachhang.Count();
-            if(countQlmh>0)
+            var countQuanlykhachhang = _context.Quanlykhachhang.Count();
+            if(countQuanlykhachhang>0)
             {
-                var Mamonhoc = _context.Quanlykhachhang.OrderByDescending(m =>m.Makhachhang).First().Makhachhang;
+                var Makhachhang = _context.Quanlykhachhang.OrderByDescending(m =>m.Makhachhang).First().Makhachhang;
                 // sinh ma tu dong
-                newMakhachhang = strPro.AutoGenerateCode(Mamonhoc);
+                newMakhachhang = strPro.AutoGenerateCode(Makhachhang);
             }
             ViewBag.newID = newMakhachhang;
             return View(); 

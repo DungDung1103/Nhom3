@@ -24,6 +24,10 @@ public class StringProcess
     
      
     }
-    
-}
+
+        internal string AutoGenerateCode(object makhachhang)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

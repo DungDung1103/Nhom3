@@ -7,13 +7,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
+using BTLNhom3.Models.Process;
 
 namespace BTLNhom3.Controllers
 {
     public class QuanlynccController : Controller
     {
         private readonly MvcMovieContext _context;
-
+        private StringProcess strPro = new StringProcess();
         public QuanlynccController(MvcMovieContext context)
         {
             _context = context;
@@ -49,18 +50,26 @@ namespace BTLNhom3.Controllers
         }
 
         // GET: Quanlyncc/Create
-        public IActionResult Create()
+         public IActionResult Create()
         {
-            ViewData["Masanpham"] = new SelectList(_context.Quanlysanpham, "Masanpham", "Masanpham");
-            return View();
-        }
+            var newMancc= "NCC001";
+            var countQuanlyncc = _context.Quanlyncc.Count();
+            if(countQuanlyncc>0)
+            {
+                var Mancc = _context.Quanlyncc.OrderByDescending(m =>m.Mancc).First().Mancc;
+                // sinh ma tu dong
+                newMancc = strPro.AutoGenerateCode(Mancc);
+            }
+            ViewBag.newID = newMancc;
+            return View(); 
+            }
 
         // POST: Quanlyncc/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Masanncc,Tenncc,sodienthoai,diachi,email,Masanpham")] Quanlyncc quanlyncc)
+        public async Task<IActionResult> Create([Bind("Mancc,Tenncc,sodienthoai,diachi,email,Masanpham")] Quanlyncc quanlyncc)
         {
             if (ModelState.IsValid)
             {

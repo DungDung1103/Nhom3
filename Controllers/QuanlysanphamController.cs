@@ -7,13 +7,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
+using BTLNhom3.Models.Process;
 
 namespace BTLNhom3.Controllers
 {
     public class QuanlysanphamController : Controller
     {
         private readonly MvcMovieContext _context;
-
+        private ExcelsProcess _excelProcess = new ExcelsProcess();
         public QuanlysanphamController(MvcMovieContext context)
         {
             _context = context;
@@ -27,6 +28,58 @@ namespace BTLNhom3.Controllers
                           Problem("Entity set 'MvcMovieContext.Quanlysanpham'  is null.");
         }
 
+    //GET: Update
+         public async Task<IActionResult>Upload()
+        {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult>Upload(IFormFile file)
+        {
+            if (file!=null)
+            {
+                string fileExtension = Path.GetExtension(file.FileName);
+                if (fileExtension != ".xls" && fileExtension !=".xlsx")
+                {
+                    ModelState.AddModelError("", "Please choose excel file to upload!");
+                }
+                else
+                {
+                    //rename
+                    var fileName = DateTime.Now.ToShortTimeString() +fileExtension;
+                    var filePath = Path.Combine(Directory.GetCurrentDirectory() + "/Uploads/Excels", fileName);
+                    var fileLocation = new FileInfo(filePath).ToString();
+                    using (var stream = new FileStream(filePath,FileMode.Create))
+                    {
+                        //save file to server
+                        await file.CopyToAsync(stream);
+                        // read data from
+                        var dt = _excelProcess.ExcelToDataTable(fileLocation);
+                        //using for loop to read data from dt
+                        for (int i=0; i< dt.Rows.Count;i++)
+                        {
+                            //create a new Customer object
+                            var Qlsp = new Quanlysanpham();
+                            // set values for attrinutes
+                            Qlsp.Masanpham= dt.Rows[i][0].ToString();
+                            Qlsp.Tensanpham= dt.Rows[i][1].ToString();
+                            Qlsp.size = Convert.ToInt32(dt.Rows[i][2].ToString ());
+                            Qlsp.soluong= Convert.ToInt32(dt.Rows[i][3].ToString ());
+                            Qlsp.mausac = dt.Rows[i][4].ToString();
+                            Qlsp.giatien = Convert.ToDecimal(dt.Rows[i][5].ToString ());
+
+                             //add object to Context
+                             _context.Quanlysanpham.Add(Qlsp);
+                        }
+                        //save to database 
+                        await _context.SaveChangesAsync();
+                        return RedirectToAction(nameof(Index));
+                    }
+                }
+            }
+            return View();
+        }
         // GET: Quanlysanpham/Details/5
         public async Task<IActionResult> Details(string id)
         {

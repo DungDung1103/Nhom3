@@ -38,6 +38,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
             "Microsoft.AspnetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"
