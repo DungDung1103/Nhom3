@@ -11512,19 +11512,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
+      "projectUniqueName": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
       "projectName": "BTLNhom3",
-      "projectPath": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BTLPTPM\\BTLNhom3\\obj\\",
+      "projectPath": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\PTPM\\BTLNhom3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

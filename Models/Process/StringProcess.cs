@@ -18,6 +18,7 @@ public class StringProcess
        for (int i= 0; i<numPart.Length - intPart.ToString().Length;i++)
        {
           strPart +="0";
+          
        }
         strResult = strPart + intPart;
         return strResult;
