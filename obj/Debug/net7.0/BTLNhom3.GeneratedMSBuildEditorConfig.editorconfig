@@ -24,6 +24,7 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+
 [c:/Users/admin/Desktop/BTLNhom3/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -57,25 +58,9 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5ZG9uaGFuZ1xJbmRleC5j
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/admin/Desktop/BTLNhom3/Views/Quanlykhachhang/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/admin/Desktop/BTLNhom3/Views/Quanlykhachhang/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/admin/Desktop/BTLNhom3/Views/Quanlykhachhang/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/admin/Desktop/BTLNhom3/Views/Quanlykhachhang/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/admin/Desktop/BTLNhom3/Views/Quanlykhachhang/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5a2hhY2hoYW5nXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
+<<<<<<< HEAD
 [c:/Users/admin/Desktop/BTLNhom3/Views/Quanlyncc/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -97,6 +82,7 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5bmNjXEluZGV4LmNzaHRt
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/admin/Desktop/BTLNhom3/Views/Quanlysanpham/Create.cshtml]
+
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVhbmx5c2FucGhhbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 

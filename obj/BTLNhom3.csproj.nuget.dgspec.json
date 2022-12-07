@@ -16,9 +16,7 @@
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": [
-          "net7.0"
-        ],
+        "originalTargetFrameworks": ["net7.0"],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,9 +27,7 @@
           }
         },
         "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
+          "warnAsError": ["NU1605"]
         }
       },
       "frameworks": {
@@ -42,6 +38,7 @@
               "target": "Package",
               "version": "[6.1.1, )"
             },
+
             "Microsoft.AspnetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"

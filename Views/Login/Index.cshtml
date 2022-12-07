@@ -1,15 +1,25 @@
+<<<<<<< HEAD
 @model BTLNhom3.Models.Login
 
 @{
     ViewData["Title"] = "Login";
 }
 
+<<<<<<<< HEAD:Views/Login/Index.cshtml
 <h1>Đăng nhập</h1>
+========
+<h1>Tạo tài khoản</h1>
+>>>>>>>> cff410838e847451aed9f6511bea2e77d09b7596:Views/Admin/Create.cshtml
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form method="post" asp-controller="Login" asp-action="Login">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
             <div class="form-group">
                 <label asp-for="Username" class="control-label"></label>
                 <input asp-for="Username" class="form-control" />
@@ -21,8 +31,13 @@
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
+<<<<<<<< HEAD:Views/Login/Index.cshtml
                 <input type="submit" value="Login" class="btn btn-primary" />
                 <input type="submit" value="Sign up" class="btn btn-success" />
+========
+                <input type="submit" value="Create" class="btn btn-primary" />
+                 <a class="btn btn-success" asp-action="Index">Back to List</a>
+>>>>>>>> cff410838e847451aed9f6511bea2e77d09b7596:Views/Admin/Create.cshtml
             </div>
         </form>
     </div>  
@@ -32,3 +47,64 @@
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }
 
+=======
+@model IEnumerable<BTLNhom3.Models.Login>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HoTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ConfirmPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ConfirmPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdUser">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdUser">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdUser">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+>>>>>>> cff410838e847451aed9f6511bea2e77d09b7596

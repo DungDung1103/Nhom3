@@ -7,12 +7,15 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
+
 using BTLNhom3.Account;
+
 
 namespace BTLNhom3.Controllers
 {
     public class LoginController : Controller
     {
+
         // private readonly MvcMovieContext _context;
 
         // public LoginController(MvcMovieContext context)
@@ -24,11 +27,6 @@ namespace BTLNhom3.Controllers
         public LoginController(Service _acountService)
         {
             acountService = _acountService;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
         }
 
         [HttpPost]

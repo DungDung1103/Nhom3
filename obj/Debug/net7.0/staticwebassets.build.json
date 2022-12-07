@@ -1,6 +1,8 @@
 {
   "Version": 1,
+
   "Hash": "2T/K1iWF5mCqppUXVvMXQHCM5UOQpCUbDEkXx8VxpKk=",
+
   "Source": "BTLNhom3",
   "BasePath": "_content/BTLNhom3",
   "Mode": "Default",
@@ -10,7 +12,9 @@
     {
       "Name": "BTLNhom3\\wwwroot",
       "Source": "BTLNhom3",
+
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "Pattern": "**"
     }
@@ -21,6 +25,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "BTLNhom3.styles.css",
       "AssetKind": "All",
@@ -31,6 +36,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+
       "OriginalItemSpec": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css"
     },
     {
@@ -38,6 +44,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "BTLNhom3.bundle.scp.css",
       "AssetKind": "All",
@@ -48,6 +55,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+
       "OriginalItemSpec": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css"
     },
     {
@@ -55,6 +63,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -72,6 +81,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -89,6 +99,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -106,6 +117,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -123,6 +135,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -140,6 +153,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -157,6 +171,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -174,6 +189,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -191,6 +207,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -208,6 +225,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -225,6 +243,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -242,6 +261,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -259,6 +279,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -276,6 +297,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -293,6 +315,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -310,6 +333,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -326,7 +350,7 @@
       "Identity": "D:\\PTPM\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -344,6 +368,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -361,6 +386,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -378,6 +404,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -395,6 +422,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -412,6 +440,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -429,6 +458,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -446,6 +476,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -463,6 +494,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -480,6 +512,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -497,6 +530,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -514,6 +548,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -531,6 +566,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -548,6 +584,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -565,6 +602,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -582,6 +620,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -599,6 +638,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -616,6 +656,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -633,6 +674,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -650,6 +692,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -667,6 +710,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -684,6 +728,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -701,6 +746,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -718,6 +764,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -735,6 +782,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -752,6 +800,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -769,6 +818,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -786,6 +836,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -803,6 +854,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -820,6 +872,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -837,6 +890,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -854,6 +908,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -871,6 +926,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -888,6 +944,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -905,6 +962,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -922,6 +980,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -939,6 +998,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -956,6 +1016,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -973,6 +1034,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -990,6 +1052,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1007,6 +1070,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1024,7 +1088,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-      "BasePath": "_content/BTLNhom3",
+
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1041,6 +1105,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1058,6 +1123,7 @@
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
+
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
