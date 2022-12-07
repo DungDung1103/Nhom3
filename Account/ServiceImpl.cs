@@ -31,6 +31,7 @@ namespace BTLNhom3.Account{
         } 
         public Login Login (string Username, string Password)
     {
+        // trả về giá trị mặc định của kiểu dữ liệu trong bộ sưu tập
         return logins.SingleOrDefault(a =>a.Username == Username && a.Password == Password);
 
     }

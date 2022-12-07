@@ -11,7 +11,6 @@ using BTLNhom3.Account;
 
 namespace BTLNhom3.Controllers
 {
-    [Route("Login")]
     public class LoginController : Controller
     {
         // private readonly MvcMovieContext _context;
@@ -26,16 +25,14 @@ namespace BTLNhom3.Controllers
         {
             acountService = _acountService;
         }
-        [Route("")]
-        [Route("~/")]
-        [Route("index")]
+
         public IActionResult Index()
         {
             return View();
         }
 
         [HttpPost]
-        [Route("Login")]
+
         public IActionResult Login(string Username, string Password)
         {
             var account = acountService.Login(Username, Password);
@@ -53,7 +50,7 @@ namespace BTLNhom3.Controllers
         }
 
 
-         [Route("Welcome")]
+        
         public IActionResult Welcome()
         {
             ViewBag.username = HttpContext.Session.GetString("Username");
@@ -61,7 +58,6 @@ namespace BTLNhom3.Controllers
         }
 
         
-         [Route("Logout")]
         public IActionResult Logout()
         {
             HttpContext.Session.Remove("Username");
