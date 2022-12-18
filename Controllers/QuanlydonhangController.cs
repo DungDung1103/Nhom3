@@ -20,10 +20,16 @@ namespace BTLNhom3.Controllers
         }
 
         // GET: Quanlydonhang
-        public async Task<IActionResult> Index()
+       public async Task<IActionResult> Index(string searchString)
         {
-            var mvcMovieContext = _context.Quanlydonhang.Include(q => q.Quanlykhachhang).Include(q => q.Quanlysanpham);
-            return View(await mvcMovieContext.ToListAsync());
+            var Madh = from m in _context.Quanlydonhang
+                select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                Madh = Madh.Where(s => s.Madonhang!.Contains(searchString));
+                }
+            return View(await Madh.ToListAsync());
         }
 
         // GET: Quanlydonhang/Details/5

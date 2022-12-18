@@ -21,11 +21,16 @@ namespace BTLNhom3.Controllers
         }
 
         // GET: Quanlysanpham
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-              return _context.Quanlysanpham != null ? 
-                          View(await _context.Quanlysanpham.ToListAsync()) :
-                          Problem("Entity set 'MvcMovieContext.Quanlysanpham'  is null.");
+            var Masp = from m in _context.Quanlysanpham
+                select m;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                Masp = Masp.Where(s => s.Masanpham!.Contains(searchString));
+                }
+            return View(await Masp.ToListAsync());
         }
 
     //GET: Update

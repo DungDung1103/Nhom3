@@ -9,7 +9,12 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<p>
+<form asp-controller="Quan li san pham" asp-action="Index">
+    <p>
+        TÌM KIẾM : <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
     <a asp-action="Upload">Upload New</a>
     </p>
 <table class="table">

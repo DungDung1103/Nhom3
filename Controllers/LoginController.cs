@@ -8,9 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
 using BTLNhom3.Account;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BTLNhom3.Controllers
 {
+    [Authorize]
     public class LoginController : Controller
     {
         // private readonly MvcMovieContext _context;
@@ -30,7 +32,7 @@ namespace BTLNhom3.Controllers
         {
             return View();
         }
-
+        [AllowAnonymous]
         [HttpPost]
 
         public IActionResult Login(string Username, string Password)
