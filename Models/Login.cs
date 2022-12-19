@@ -5,6 +5,7 @@ namespace BTLNhom3.Models{
    public class Login
    {
     [Key]
+
      [Required(ErrorMessage =("Họ tên không được bỏ trống"))]
     public string? FullName { get; set; }
      [Required(ErrorMessage =("Username không được bỏ trống"))]

@@ -7,14 +7,20 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using BTLNhom3.Models;
 using MvcMovie.Data;
+
 using BTLNhom3.Account;
 using Microsoft.AspNetCore.Authorization;
 
+
 namespace BTLNhom3.Controllers
 {
+<<<<<<< HEAD
     [Authorize]
+=======
+>>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
     public class LoginController : Controller
     {
+
         // private readonly MvcMovieContext _context;
 
         // public LoginController(MvcMovieContext context)
@@ -28,11 +34,14 @@ namespace BTLNhom3.Controllers
             acountService = _acountService;
         }
 
+<<<<<<< HEAD
         public IActionResult Index()
         {
             return View();
         }
         [AllowAnonymous]
+=======
+>>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
         [HttpPost]
 
         public IActionResult Login(string Username, string Password)

@@ -1540,6 +1540,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+
       "Microsoft.Extensions.FileProviders.Abstractions/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -5807,6 +5808,7 @@
         "useSharedDesignerContext.txt"
       ]
     },
+
     "Microsoft.Extensions.FileProviders.Abstractions/7.0.0": {
       "sha512": "NyawiW9ZT/liQb34k9YqBSNPLuuPkrjMgQZ24Y/xXX1RoiBkLUdPMaQTmxhZ5TYu8ZKZ9qayzil75JX95vGQUg==",
       "type": "package",
@@ -11503,6 +11505,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "EPPlus >= 6.1.1",
+
       "Microsoft.AspnetCore.Session >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SQLite >= 7.0.0",
@@ -11519,16 +11522,21 @@
     "restore": {
       "projectUniqueName": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
       "projectName": "BTLNhom3",
+<<<<<<< HEAD
       "projectPath": "D:\\BTLPTPM\\BTLNhom3\\BTLNhom3.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "D:\\BTLPTPM\\BTLNhom3\\obj\\",
+=======
+      "projectPath": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "D:\\PTPM\\BTLNhom3\\obj\\",
+
+>>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
-      "originalTargetFrameworks": [
-        "net7.0"
-      ],
+      "originalTargetFrameworks": ["net7.0"],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -11539,9 +11547,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "warnAsError": ["NU1605"]
       }
     },
     "frameworks": {
@@ -11552,6 +11558,7 @@
             "target": "Package",
             "version": "[6.1.1, )"
           },
+
           "Microsoft.AspnetCore.Session": {
             "target": "Package",
             "version": "[2.2.0, )"
