@@ -13,7 +13,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace BTLNhom3.Controllers
 {
-    [Authorize]
+   
     public class QuanlykhachhangController : Controller
     {
         private readonly MvcMovieContext _context;

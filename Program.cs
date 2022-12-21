@@ -1,4 +1,4 @@
-using BTLNhom3.Account;
+
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
@@ -8,8 +8,6 @@ builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
  
-builder.Services.AddScoped<Service, ServiceImpl>();
-
 builder.Services.AddDistributedMemoryCache();
 
 builder.Services.AddSession(options =>
