@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Downloads\\BTLNhom3\\BTLNhom3.csproj": {}
+    "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Downloads\\BTLNhom3\\BTLNhom3.csproj": {
+    "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Downloads\\BTLNhom3\\BTLNhom3.csproj",
+        "projectUniqueName": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
         "projectName": "BTLNhom3",
-        "projectPath": "C:\\Users\\admin\\Downloads\\BTLNhom3\\BTLNhom3.csproj",
+        "projectPath": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\",
+        "outputPath": "D:\\PTPM\\BTLNhom3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QB9wttE7JLmfY9ZYOSDqT7y1z1qgAwWEj5P0Fh2QPzoelTSlC1VE3mSeGMeCOxF4rR1w99yBOL5GX/QmNkFrLA==",
+  "dgSpecHash": "iWU9ktvxggU3T1kf6gz+4rvbldzCgGorhduuHzzemxZfMmPzzEvv/t/ee9CwWh/yjY/jU5q0euEISyf/oKibRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\BTLNhom3\\BTLNhom3.csproj",
+  "projectFilePath": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -213,5 +213,12 @@
     "C:\\Users\\admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\PTPM\\BTLNhom3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

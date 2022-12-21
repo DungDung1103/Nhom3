@@ -241,7 +241,16 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
       "Id": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+<<<<<<< HEAD
+      "Id": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+=======
+      "Id": "D:\\PTPM\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+
+>>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
+>>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

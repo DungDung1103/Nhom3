@@ -9,12 +9,15 @@ using BTLNhom3.Models;
 using MvcMovie.Data;
 using BTLNhom3.Models.Process;
 
+
 namespace BTLNhom3.Controllers
 {
     public class QuanlynccController : Controller
     {
         private readonly MvcMovieContext _context;
+
         private StringProcess strPro = new StringProcess();
+
         public QuanlynccController(MvcMovieContext context)
         {
             _context = context;
@@ -69,7 +72,9 @@ namespace BTLNhom3.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+
         public async Task<IActionResult> Create([Bind("Mancc,Tenncc,sodienthoai,diachi,email,Masanpham")] Quanlyncc quanlyncc)
+
         {
             if (ModelState.IsValid)
             {

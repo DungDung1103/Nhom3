@@ -4,6 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using MvcMovie.Data;
 var builder = WebApplication.CreateBuilder(args);
 
+
 builder.Services.AddRazorPages();
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
@@ -12,6 +13,7 @@ builder.Services.AddDistributedMemoryCache();
 
 builder.Services.AddSession(options =>
 {
+
     
     options.IdleTimeout = TimeSpan.FromSeconds(10);
      options.Cookie.HttpOnly = true;
@@ -26,6 +28,7 @@ builder.Services.AddDbContext<MvcMovieContext>(options =>
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
 
 if (!app.Environment.IsDevelopment())
 {

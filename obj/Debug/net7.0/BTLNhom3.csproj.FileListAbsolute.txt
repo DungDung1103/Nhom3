@@ -1223,3 +1223,5 @@ D:\PTPM\BTLNhom3\obj\Debug\net7.0\refint\BTLNhom3.dll
 D:\PTPM\BTLNhom3\obj\Debug\net7.0\BTLNhom3.pdb
 D:\PTPM\BTLNhom3\obj\Debug\net7.0\BTLNhom3.genruntimeconfig.cache
 D:\PTPM\BTLNhom3\obj\Debug\net7.0\ref\BTLNhom3.dll
+=======
+>>>>>>> cff410838e847451aed9f6511bea2e77d09b7596
