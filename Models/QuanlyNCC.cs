@@ -11,7 +11,7 @@ public class Quanlyncc
     public string? Mancc { get; set; }
     [Required(ErrorMessage = "Tên NCC không được để trống !!!")]
     public string? Tenncc { get; set; }
-    
+     [Required(ErrorMessage = "Số điện thoại không được để trống !!!")]
      public int sodienthoai { get; set; }
     public string? diachi { get; set; }
     

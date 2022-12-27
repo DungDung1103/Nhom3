@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj": {}
+    "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj": {}
   },
   "projects": {
-    "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj": {
+    "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
+        "projectUniqueName": "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj",
         "projectName": "BTLNhom3",
-        "projectPath": "D:\\PTPM\\BTLNhom3\\BTLNhom3.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\PTPM\\BTLNhom3\\obj\\",
+        "projectPath": "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BTLPTPM\\Nhom3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
