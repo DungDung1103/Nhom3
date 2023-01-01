@@ -11517,11 +11517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj",
+      "projectUniqueName": "D:\\Nhom3\\BTLNhom3.csproj",
       "projectName": "BTLNhom3",
-      "projectPath": "D:\\BTLPTPM\\Nhom3\\BTLNhom3.csproj",
+      "projectPath": "D:\\Nhom3\\BTLNhom3.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\BTLPTPM\\Nhom3\\obj\\",
+      "outputPath": "D:\\Nhom3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

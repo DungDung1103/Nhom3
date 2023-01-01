@@ -1,16 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "vYZXHAw/3sTxd5WddrfGXj+5KfL1GsLAOg0ItCYcw/8=",
-=======
-<<<<<<< HEAD
-  "Hash": "dLxF7Cbn+5w96vDjKZj1ZGsiTH9zTVemr6ptK4rdz88=",
-=======
-
-  "Hash": "2T/K1iWF5mCqppUXVvMXQHCM5UOQpCUbDEkXx8VxpKk=",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+  "Hash": "W081xvfIJH/3+fjk0u1X7/CEsjviF/uLCKIE9885udk=",
   "Source": "BTLNhom3",
   "BasePath": "_content/BTLNhom3",
   "Mode": "Default",
@@ -20,36 +10,17 @@
     {
       "Name": "BTLNhom3\\wwwroot",
       "Source": "BTLNhom3",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css",
+      "Identity": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Computed",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "BTLNhom3.styles.css",
       "AssetKind": "All",
@@ -60,31 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css"
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "D:\\BTLPTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css"
-=======
-
-      "OriginalItemSpec": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css"
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "OriginalItemSpec": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BTLNhom3.styles.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css",
+      "Identity": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Computed",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "BTLNhom3.bundle.scp.css",
       "AssetKind": "All",
@@ -95,31 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\Users\\admin\\Downloads\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css"
-=======
-<<<<<<< HEAD
-      "OriginalItemSpec": "D:\\BTLPTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css"
-=======
-
-      "OriginalItemSpec": "D:\\PTPM\\BTLNhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css"
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "OriginalItemSpec": "D:\\Nhom3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BTLNhom3.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\css\\site.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -133,19 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Nhom3\\wwwroot\\favicon.ico",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -159,19 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\js\\site.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -185,19 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -211,19 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -237,19 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -263,19 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -289,19 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -315,19 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -341,19 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -367,19 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -393,19 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -419,19 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -445,19 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -471,19 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -497,19 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -523,18 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -548,19 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -574,19 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -600,19 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -626,19 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -652,19 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -678,19 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -704,19 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -730,19 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -756,19 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -782,19 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -808,19 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -834,19 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -860,19 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -886,19 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -912,19 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -938,19 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -964,19 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -990,19 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1016,19 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1042,19 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1068,19 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1094,19 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1120,19 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1146,19 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1172,19 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1198,19 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1224,19 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1250,19 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1276,19 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1302,19 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1328,19 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1354,19 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1380,19 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1406,19 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1432,19 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1458,19 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1484,19 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1510,19 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1536,19 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1562,19 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1588,20 +1020,11 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
@@ -1614,19 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1640,19 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Nhom3\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BTLNhom3",
       "SourceType": "Discovered",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\Users\\admin\\Downloads\\BTLNhom3\\wwwroot\\",
-=======
-<<<<<<< HEAD
-      "ContentRoot": "D:\\BTLPTPM\\BTLNhom3\\wwwroot\\",
-=======
-      "ContentRoot": "D:\\PTPM\\BTLNhom3\\wwwroot\\",
-
->>>>>>> a2d4027baa60a5ba3c7ff7281aa0beb35a1ed462
->>>>>>> 461435f4eac355f73009c90cb773032efdbad0c9
+      "ContentRoot": "D:\\Nhom3\\wwwroot\\",
       "BasePath": "_content/BTLNhom3",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
