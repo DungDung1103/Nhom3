@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using BTLNhom3.Models;
+using BTL_Nhom3.Models;
 
-namespace BTLNhom3.Controllers;
+namespace BTL_Nhom3.Controllers;
 
 public class HomeController : Controller
 {

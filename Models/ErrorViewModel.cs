@@ -1,4 +1,4 @@
-namespace BTLNhom3.Models;
+namespace BTL_Nhom3.Models;
 
 public class ErrorViewModel
 {
